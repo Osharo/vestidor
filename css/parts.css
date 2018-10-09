@@ -1,0 +1,6 @@
+part {
+    border: #1b1e21 1px dotted;
+    min-width: 200px;
+    min-height: 200px;
+    display: block;
+}
